@@ -1,0 +1,40 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA_pro/LED/simulation/modelsim
+T_opt
+!s110 1621859621
+VniJ[SD9>bCB@JWZ[KaC=U3
+04 3 4 work LED fast 0
+=1-680715d5517e-60ab9d25-112-2278
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+vLED
+!s110 1621859602
+!i10b 1
+!s100 HSMK[SgTcF@<ZUFmC:9TF3
+IS0O1^bXhcJ@?5kGU422^Z2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1621859563
+8F:/FPGA_pro/LED/LED.v
+FF:/FPGA_pro/LED/LED.v
+L0 1
+OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1621859602.190000
+!s107 F:/FPGA_pro/LED/LED.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA_pro/LED|F:/FPGA_pro/LED/LED.v|
+!i113 0
+o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+F:/FPGA_pro/LED -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@l@e@d
